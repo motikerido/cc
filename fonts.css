@@ -1,0 +1,16 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+/*סוג גופן*/
+h2{font-family: sans-serif;
+/*גודל גופן בהמשך נשתמש ביחידות EM*/
+font-size: 45px;
+/*אם הטקסט יהיה מודגש או לא*/
+font-weight: normal;
+/*אם רוצים שהכתב יהיה נטוי*/
+font-style: italic;
+}
+/*כשרוצים לכוון את הטקסט יישור וכד'*/
+.para1{text-align: center;
+}
+

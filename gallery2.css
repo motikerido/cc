@@ -1,0 +1,16 @@
+body{background: gray;
+    margin: 0;
+}
+
+.container{
+width: 800px;
+padding: 10px;
+margin: 0 auto;
+background: gainsboro;
+float: center ;
+}
+.a{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
